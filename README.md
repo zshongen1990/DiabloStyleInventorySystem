@@ -1,2 +1,0 @@
-# DiabloStyleInventorySystem
-Created with CodeSandbox
